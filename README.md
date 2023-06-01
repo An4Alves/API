@@ -1,20 +1,22 @@
-# Informações
+# DOCUMENTAÇÃO
 
-Este foi um projeto escolar, do curso tecnico em informatica com auxilio de um video do canal Matheus Battisti - Hora de Codar.
+# Informações:
+
+Este foi um projeto escolar, do curso técnico em informática com auxílio de um vídeo do canal Matheus Battisti - Hora de Codar.
 
 
-# O que é
+# O que é:
 
 É um site utilizando API para visualizar o clima de qualquer cidade, estado do mundo. 
 
 
-# COMO FUNCIONA?
+# Como fuciona?
 
-Ele te ofere 4 opções padrões de cidades. Tem uma barra de pesquisa, para procurar locais e mostrar informações sobre o clima.
+Ele te oferece 4 opções padrões de cidades. Tem uma barra de pesquisa, para procurar locais e mostrar informações sobre o clima.
 E mostra também foto do local pesquisado.
 
 
-# Linguagem de marcação,estilo e programação
+# Linguagem de marcação,estilo e programação:
 
 -html
 
@@ -23,8 +25,8 @@ E mostra também foto do local pesquisado.
 -javascript
 
 
-# FEITO POR
+# Feito por:
 
-Ana Clara(https://github.com/An4Alves)
+Ana Clara (https://github.com/An4Alves)
 
-Fabricio(https://github.com/F4bricioSantos)
+Fabricio (https://github.com/F4bricioSantos)
