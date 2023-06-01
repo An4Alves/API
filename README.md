@@ -1,6 +1,3 @@
-#DOCUMENTAÇAO
-
-
 #Informações
 
 Este foi um projeto escolar, do curso tecnico em informatica com auxilio de um video do canal Matheus Battisti - Hora de Codar.
